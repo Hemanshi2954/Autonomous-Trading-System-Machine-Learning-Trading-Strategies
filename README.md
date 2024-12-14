@@ -1,6 +1,6 @@
 # AI-Driven EURUSD Trading Forecasting
 
-![Project Banner](https://via.placeholder.com/1200x400?text=AI-Driven+Trading+Forecasting)  
+
 
 ### **Using Machine Learning and Deep Learning for Forex Market Analysis and Automated Trading**
 
@@ -65,10 +65,6 @@ Together, these methods create a **multi-layered trading strategy**, enabling be
 
 ---
 
-## **Model Architecture**
-
-![Model Workflow](https://via.placeholder.com/800x400?text=Model+Workflow)  
-
 ### **LSTM for Time Series Forecasting**
 - Sequential Model with layers:
   - **Input Layer**: Takes processed time series data.
@@ -81,14 +77,11 @@ Together, these methods create a **multi-layered trading strategy**, enabling be
 ---
 
 
----
-
 ## **Results**
 
 - **Accuracy**: Achieved 87% accuracy in predicting EURUSD trends on test data.
 - **Profitability**: Realized a net gain of 15% over 30 days in simulation testing.
 
-![Sample Results](https://via.placeholder.com/800x400?text=Sample+Results)  
 
 ---
 
