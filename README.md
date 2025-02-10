@@ -81,8 +81,10 @@ Together, these methods create a **multi-layered trading strategy**, enabling be
 
 - **Accuracy**: Achieved 87% accuracy in predicting EURUSD trends on test data.
 - **Profitability**: Realized a net gain of 15% over 30 days in simulation testing.
-![result image](/autonomustradingreport.jpg)
-![final image](/model_performance.png)
+  
+  <img src="/autonomustradingreport.jpg" alt="Sample Image" width="900" >
+    <img src="/model_performance.png" alt="performance" >
+
 
 
 ---
